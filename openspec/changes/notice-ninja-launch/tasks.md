@@ -1,0 +1,3 @@
+- [ ] Build lease/notice intake UI
+- [ ] Add AI-powered deadline analysis, checklist generation, risk flags, and landlord reply drafting
+- [ ] Verify locally, redeploy onto the reserved Cloud Run service, publish on Sundai, and document final links
