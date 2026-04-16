@@ -37,8 +37,8 @@ This is an early bootstrap README before the final app lands. Exact commands or 
 ## Published Links
 
 - Repo: https://github.com/sundaiclaw/notice-ninja
-- Sundai Project: PENDING
-- Demo URL: PENDING
+- Sundai Project: https://www.sundai.club/projects/804d5caf-111f-4aca-aa88-f62aefbfbc20
+- Demo URL: https://notice-ninja-859414203684.us-central1.run.app
 
 Build on Sundai Club on April 16, 2026  
-Sundai Project: PENDING
+Sundai Project: https://www.sundai.club/projects/804d5caf-111f-4aca-aa88-f62aefbfbc20
